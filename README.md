@@ -1,7 +1,7 @@
 # douyin-baodianma
 抖音爆店码源码
 ## 技术栈 【技术文档 + 接口文档】
-### 后端：Java Srpingboot
+### 后端：Java Springboot
 ### 前端：管理端【Vue + Element UI】｜移动端【Vue + Vant】
 ## 抖音分发工具 + 视频混剪 一体
 ## 直营 + 代理模式
